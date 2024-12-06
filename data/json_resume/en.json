@@ -3,53 +3,32 @@
   "basics": {
     "name": "Safayat Borhan",
     "label": "Senior Software Engineer",
-    "image": "https://hugo-theme-gruvbox.schnerring.net/richard-hendricks.webp",
+    "image": "https://github.com/safayatborhan/safayatborhan.github.io/blob/main/IMG_2203.JPG",
     "email": "zisan_cse_mbstu@hotmail.com",
     "phone": "+60123059759",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory.",
+    "summary": "",
     "location": {
-      "city": "San Francisco"
+      "city": "Kuala Lumpur"
     },
     "profiles": [
       {
         "network": "GitHub",
-        "username": "hugo-theme-gruvbox",
-        "url": "https://github.com/schnerring/hugo-theme-gruvbox"
+        "username": "safayatborhan",
+        "url": "https://github.com/safayatborhan"
       },
       {
-        "network": "GitHub",
-        "username": "hugo-mod-json-resume",
-        "url": "https://github.com/schnerring/hugo-mod-json-resume"
-      },
-      {
-        "network": "X",
-        "url": "https://x.com/SiliconHBO"
-      },
-      {
-        "network": "fandom",
-        "url": "https://silicon-valley.fandom.com/wiki/Richard_Hendricks"
-      },
-      {
-        "network": "HBO",
-        "url": "https://www.hbo.com/silicon-valley"
-      },
-      {
-        "network": "IMDB",
-        "url": "https://www.imdb.com/title/tt2575988/"
-      },
-      {
-        "network": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/List_of_Silicon_Valley_characters#Richard_Hendricks"
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/safayat-borhan-zisan/"
       }
     ]
   },
   "work": [
     {
-      "name": "Pied Piper",
-      "location": "Palo Alto, CA",
-      "description": "Awesome compression company",
-      "position": "CEO/President",
-      "url": "http://piedpiper.com",
+      "name": "Orsted",
+      "location": "Malaysia",
+      "description": "",
+      "position": "Senior Software Engineer",
+      "url": "http://orsted.com",
       "startDate": "2013-12-01",
       "endDate": "2014-12-01",
       "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
