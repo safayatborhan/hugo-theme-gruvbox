@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Safayat Borhan",
-    "label": "Senior Software Engineer | CKAD | Certified SAFE Practitioner | Clean Code Evangelist",
+    "label": "Senior Software Engineer",
     "image": "https://raw.githubusercontent.com/safayatborhan/safayatborhan.github.io/refs/heads/main/IMG_2203.JPG",
     "email": "zisan_cse_mbstu@hotmail.com",
     "phone": "+60123059759",
