@@ -2,13 +2,13 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Safayat Borhan",
-    "label": "Senior Software Engineer",
+    "label": "Senior Software Engineer | CKAD | Certified SAFE Practitioner | Clean Code Evangelist",
     "image": "https://raw.githubusercontent.com/safayatborhan/safayatborhan.github.io/refs/heads/main/IMG_2203.JPG",
     "email": "zisan_cse_mbstu@hotmail.com",
     "phone": "+60123059759",
-    "summary": "",
+    "summary": "Safayat Borhan is a responsible and quality focused person. A fast learner. An excellent collaborator, always willing to lend a helping hand. He fosters a positive and inclusive environment. He has showcased an ability to analyze complex technical issues, break them down into manageable components and find effective solutions. He designs solutions that are robust, highly scalable and fault-tolerant. ",
     "location": {
-      "city": "Kuala Lumpur"
+      "city": "Kuala Lumpur, Malaysia"
     },
     "profiles": [
       {
