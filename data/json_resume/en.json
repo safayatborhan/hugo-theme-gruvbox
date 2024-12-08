@@ -77,6 +77,20 @@
       ]
     }
   ],
+  "certificates": [
+    {
+      "name": "CKAD: Certified Kubernetes Application Developer",
+      "date": "2024-09-01",
+      "issuer": "The Linux Foundation",
+      "url": "https://www.credly.com/badges/9ce1eead-d52c-494d-b0a8-ab1d0fde19b4"
+    },
+    {
+      "name": "Certified SAFe® 5 Practitioner",
+      "date": "2022-11-01",
+      "issuer": "Scaled Agile, Inc.",
+      "url": "https://www.credly.com/badges/b10a25f0-aa1f-4beb-8c80-b163b34c2f96"
+    }
+  ],
   "skills": [
     {
       "name": "Software Engineering",
