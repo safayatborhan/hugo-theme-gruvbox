@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Abouts"
 draft: false
 ---
 
