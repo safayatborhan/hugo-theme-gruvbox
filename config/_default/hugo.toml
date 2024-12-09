@@ -46,7 +46,7 @@ enableRobotsTXT = true
   # soft medium hard, defaults to medium
   #themeContrast = "medium"
   author = "Michael Schnerring"
-  subtitle = "Theme Demo"
+  subtitle = "Safayat Borhan"
   description = "A retro-looking Hugo theme inspired by gruvbox. The pastel colors are high contrast, easily distinguishable, pleasing to the eye, and feature light and dark color palettes."
 
   [params.logo]
